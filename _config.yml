@@ -1,0 +1,60 @@
+title:            The InK Project
+tagline:          Incunabula at KU.
+description:      A digital humanities site devoted to the promotion of KU's collection of early printed books.
+canonical: http://jekyll.gtat.me
+
+# Owner/author information
+owner:
+  name:           KUSRLIP
+  avatar:         avatar.png
+  bio:            "PhD students devoted to all things medieval"
+  email:         kusrlip@gmail.com
+  github:         tenniso2
+  disqus:         balzac
+  location:       "Lawrence KS"
+  # Plug in your disqus shortname!
+
+tools:
+  standards:      "HTML, SCSS, Jekyll"
+  software:       "git"
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: About
+    url: /about
+  - title: By City of Publication
+    url: /city
+  - title: By Date of Publication
+    url: /date
+  - title: Collection Highlights
+    url: /notable
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    America/Chicago
+future:      true
+highlighter: pygments
+markdown:    kramdown
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+  coderay:
+    coderay_line_numbers:
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
+
+sass:
+    style: :compressed
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]

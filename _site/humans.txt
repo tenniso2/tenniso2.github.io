@@ -1,0 +1,14 @@
+/* TEAM */
+Creator: KUSRLIP
+Contact: kusrlip@gmail.com
+Twitter: 
+Location: Lawrence KS
+                           
+/* THANKS */                           
+Creator of Balzac theme: Cole Townsend
+Twitter: @twnsndco
+
+/* SITE */                         
+Last update: 2015-12-01
+Standards: HTML, SCSS, Jekyll                        
+Software: git

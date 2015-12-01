@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<title type="text">The InK Project</title>
+<subtitle type="text">Incunabula at KU.</subtitle>
+<generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="/feed.xml" />
+<link rel="alternate" type="text/html" href="" />
+<updated>2015-12-01T17:26:16-06:00</updated>
+<id>/</id>
+<author>
+  <name>KUSRLIP</name>
+  <uri>/</uri>
+  <email>kusrlip@gmail.com</email>
+</author>
+
+
+<entry>
+  <title type="html"><![CDATA[Confessione generale]]></title>
+  <link rel="alternate" type="text/html" href="/articles/Frate%20Raphael%20Confessione%20Generale" />
+  <id>/articles/Frate Raphael Confessione Generale</id>
+  <published>2015-12-01T00:00:00-06:00</published>
+  <updated>2015-12-01T00:00:00-06:00</updated>
+  <author>
+    <name>KUSRLIP</name>
+    <uri></uri>
+    <email>kusrlip@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;Fra. Raffaelle, &lt;em&gt;Confessione generale [et] modo vtilisimo per confessarse fata el reuerendo miser Fra Raphael&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Venice: Matteo Capcasa (di Codeca), ca. 1495.
+	8vo (14 cm). [a⁸]. [16]leaves.
+		&lt;a href=&quot;http://istc.bl.uk/search/search.html?operation=record&amp;amp;rsid=225955&amp;amp;q=104&quot;&gt;ISTC ir00004500&lt;/a&gt;  Goff ref;  other refs such as BMC; GW; etc.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Shelf-mark:&lt;/td&gt;
+      &lt;td&gt;Summerfield A87&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Variant:&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Provenance:&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Binding:&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Size:&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Annotations:&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Decoration:&lt;/td&gt;
+      &lt;td&gt;Watermark on a₁ and a₄; Woodcut of confessor and penitent on a₁&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Imperfections:&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/articles/Frate%20Raphael%20Confessione%20Generale&quot;&gt;Confessione generale&lt;/a&gt; was originally published by KUSRLIP at &lt;a href=&quot;&quot;&gt;The InK Project&lt;/a&gt; on December 01, 2015.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Post with Figure]]></title>
+  <link rel="alternate" type="text/html" href="/articles/post-with-figure" />
+  <id>/articles/post-with-figure</id>
+  <published>2013-08-05T00:00:00-05:00</published>
+  <updated>2013-08-05T00:00:00-05:00</updated>
+  <author>
+    <name>KUSRLIP</name>
+    <uri></uri>
+    <email>kusrlip@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;This is a post that uses a &lt;code&gt;figure&lt;/code&gt;. It stacks these images and places a nice little caption below if you fill out &lt;code&gt;figcaption&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;single-image-figure&quot;&gt;Single Image Figure&lt;/h3&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg&quot; /&gt;
+	&lt;figcaption&gt;Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;lineno&quot;&gt;1&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;figure&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;2&lt;/span&gt; 	&lt;span class=&quot;nt&quot;&gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;/images/image-filename-1.jpg&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;3&lt;/span&gt; 	&lt;span class=&quot;nt&quot;&gt;&amp;lt;figcaption&amp;gt;&lt;/span&gt;Caption describing these two images.&lt;span class=&quot;nt&quot;&gt;&amp;lt;/figcaption&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;4&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;/figure&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/articles/post-with-figure&quot;&gt;Post with Figure&lt;/a&gt; was originally published by KUSRLIP at &lt;a href=&quot;&quot;&gt;The InK Project&lt;/a&gt; on August 05, 2013.&lt;/p&gt;</content>
+</entry>
+
+</feed>
