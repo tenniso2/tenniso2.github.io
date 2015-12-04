@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Incunabula at KU
+title: <span style="color:brown">In</span>cunabula at <span style="color:brown">K</span>U
 tags: [InK Project, home, menu, incunabula]
 image:
   feature: ink.jpg
