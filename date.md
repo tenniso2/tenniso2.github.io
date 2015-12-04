@@ -1,9 +1,9 @@
 ---
 layout: post
 permalink: /date/index.html
-title: By Year of Publication
+title: Incunabula by Date of Publication
 image:
-  feature: text.jpg
+  feature: ink.jpg
 ---
 
 <figure>

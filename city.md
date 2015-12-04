@@ -3,7 +3,7 @@ layout: post
 permalink: /city/index.html
 title: By City of Publication
 image:
-  feature: text.jpg
+  feature: ink.jpg
 ---
 
 <figure>

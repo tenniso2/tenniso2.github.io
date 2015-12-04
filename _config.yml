@@ -23,9 +23,9 @@ tools:
 links:
   - title: About
     url: /about
-  - title: By City of Publication
+  - title: By City
     url: /city
-  - title: By Date of Publication
+  - title: By Date
     url: /date
   - title: Collection Highlights
     url: /notable
