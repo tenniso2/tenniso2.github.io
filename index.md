@@ -10,7 +10,7 @@ image:
 |&nbsp;|
 |<span style="font-size:1.5em;">  [- By Date of Publication](http://tenniso2.github.io/date/)  </span>|
 |<span style="font-size:1.5em;">  [- By City of Publication](http://tenniso2.github.io/city/)  </span>|
-|<span style="font-size:1.5em;">  [- Vernacular and Greek texts and/or lexicons](http://tenniso2.github.io/Vernacular/) </span>  |
+|<span style="font-size:1.5em;">  [- Vernacular and Greek texts and/or lexicons](http://tenniso2.github.io/vernacular/) </span>  |
 
 
 
