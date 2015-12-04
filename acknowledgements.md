@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /about/acknowledgements.html
+permalink: /acknowledgements/index.html
 title: Acknowledgements
 image:
   feature: ink.jpg
