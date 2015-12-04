@@ -5,7 +5,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2015-12-03T22:38:26-06:00</updated>
+<updated>2015-12-04T00:19:35-06:00</updated>
 <id>/</id>
 <author>
   <name>KUSRLIP</name>
@@ -25,44 +25,56 @@
     <uri></uri>
     <email>kusrlip@gmail.com</email>
   </author>
-  <content type="html">&lt;p&gt;Marcilleti, Stephanus, &lt;em&gt;Doctrinale florum artis notarii sive formularium instrumentorum&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Lyon: Jean Fabri, ca. 1494.
-	4° (21 cm). [a-p&lt;sup&gt;8&lt;/sup&gt;, q&lt;sup&gt;6&lt;/sup&gt;, 38Z] [130]leaves.
-		&lt;a href=&quot;http://istc.bl.uk/search/search.html?operation=record&amp;amp;rsid=368490&amp;amp;q=0&quot;&gt;ISTC im00255300&lt;/a&gt;  C 3870; Pell Ms 7644 (7549); Péligry 535; GW M20848&lt;/p&gt;
+  <content type="html">&lt;p&gt;&lt;span style=&quot;font-size:1.5em;&quot;&gt;Marcilleti, Stephanus, &lt;em&gt;Doctrinale florum artis notarii sive formularium instrumentorum&lt;/em&gt;.&lt;/span&gt;&lt;/p&gt;
 
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;Shelf-mark:&lt;/td&gt;
-      &lt;td&gt;MS C264 item 2&lt;/td&gt;
+      &lt;td&gt;&lt;span style=&quot;font-size:1.5em;&quot;&gt;Lyon: Jean Fabri, ca. 1494&lt;/span&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;Variant:&lt;/td&gt;
+      &lt;td&gt;&lt;span style=&quot;font-size:1.5em;&quot;&gt;4° (21 cm). [a-p&lt;sup&gt;8&lt;/sup&gt;, q&lt;sup&gt;6&lt;/sup&gt;, 38Z] [130]leaves&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;span style=&quot;font-size:1.5em;&quot;&gt;&lt;a href=&quot;http://istc.bl.uk/search/search.html?operation=record&amp;amp;rsid=368490&amp;amp;q=0&quot;&gt;ISTC im00255300&lt;/a&gt;  C 3870; Pell Ms 7644 (7549); Péligry 535; GW M20848&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;span style=&quot;font-size:1.5em;&quot;&gt;Shelf-mark:&lt;/span&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;span style=&quot;font-size:1.5em;&quot;&gt; MS C264 item 2&lt;/span&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;span style=&quot;font-size:1.5em;&quot;&gt;Variant:&lt;/span&gt; &lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;Provenance:&lt;/td&gt;
-      &lt;td&gt;Sticker: William Salloch, Pines Bridge Road, Ossining, NY 10562&lt;/td&gt;
+      &lt;td&gt;&lt;span style=&quot;font-size:1.5em;&quot;&gt;Provenance:&lt;/span&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;span style=&quot;font-size:1.5em;&quot;&gt; Sticker: William Salloch, Pines Bridge Road, Ossining, NY 10562&lt;/span&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;Binding:&lt;/td&gt;
-      &lt;td&gt;See notes&lt;/td&gt;
+      &lt;td&gt;&lt;span style=&quot;font-size:1.5em;&quot;&gt;Binding:&lt;/span&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;span style=&quot;font-size:1.5em;&quot;&gt; See notes&lt;/span&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;Size:&lt;/td&gt;
-      &lt;td&gt;4&lt;sup&gt;o&lt;/sup&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;span style=&quot;font-size:1.5em;&quot;&gt;Size:&lt;/span&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;span style=&quot;font-size:1.5em;&quot;&gt; 4&lt;sup&gt;o&lt;/sup&gt;&lt;/span&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;Annotations:&lt;/td&gt;
-      &lt;td&gt;underlining &amp;amp; handwritten marginalia&lt;/td&gt;
+      &lt;td&gt;&lt;span style=&quot;font-size:1.5em;&quot;&gt;Annotations:&lt;/span&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;span style=&quot;font-size:1.5em;&quot;&gt; underlining &amp;amp; handwritten marginalia&lt;/span&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;Decoration:&lt;/td&gt;
-      &lt;td&gt;Gothic types. Spaces for initials, not added.&lt;/td&gt;
+      &lt;td&gt;&lt;span style=&quot;font-size:1.5em;&quot;&gt;Decoration:&lt;/span&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;span style=&quot;font-size:1.5em;&quot;&gt; Gothic types. Spaces for initials, not added.&lt;/span&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;Imperfections:&lt;/td&gt;
+      &lt;td&gt;&lt;span style=&quot;font-size:1.5em;&quot;&gt;Imperfections:&lt;/span&gt; &lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
@@ -262,7 +274,7 @@
 
 
 <entry>
-  <title type="html"><![CDATA[Vernacular Texts and/or Lexicons]]></title>
+  <title type="html"><![CDATA[Incunabula in the Vernacular & Lexicons]]></title>
   <link rel="alternate" type="text/html" href="/articles/Vernacular%20texts" />
   <id>/articles/Vernacular texts</id>
   <published>2015-12-02T00:00:00-06:00</published>
@@ -272,12 +284,9 @@
     <uri></uri>
     <email>kusrlip@gmail.com</email>
   </author>
-  <content type="html">&lt;figure&gt;
-	&lt;iframe width=&quot;100%&quot; height=&quot;520&quot; frameborder=&quot;0&quot; src=&quot;https://kusrlip.cartodb.com/viz/f2992416-8982-11e5-8cfb-0ef24382571b/embed_map&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; oallowfullscreen=&quot;&quot; msallowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-	&lt;figcaption&gt;Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr&lt;/figcaption&gt;
-&lt;/figure&gt;
+  <content type="html">&lt;p&gt;&lt;img src=&quot;/images/vernacular-map.png&quot; alt=&quot;Map of vernacular texts by city of production&quot; /&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/articles/Vernacular%20texts&quot;&gt;Vernacular Texts and/or Lexicons&lt;/a&gt; was originally published by KUSRLIP at &lt;a href=&quot;&quot;&gt;The InK Project&lt;/a&gt; on December 02, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/articles/Vernacular%20texts&quot;&gt;Incunabula in the Vernacular & Lexicons&lt;/a&gt; was originally published by KUSRLIP at &lt;a href=&quot;&quot;&gt;The InK Project&lt;/a&gt; on December 02, 2015.&lt;/p&gt;</content>
 </entry>
 
 

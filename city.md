@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /city/index.html
-title: By City of Publication
+title: Incunabula by City of Publication
 image:
   feature: ink.jpg
 ---
