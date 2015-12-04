@@ -5,9 +5,13 @@ tags: [InK Project, home, menu, incunabula]
 image:
   feature: ink.jpg
 ---
+|:---:|
+|<span style="font-size:1.5em;">Browse the collection:</span>|
+|&nbsp;|
+|<span style="font-size:1.5em;">  [- By Date of Publication](http://tenniso2.github.io/date/)  </span>|
+|<span style="font-size:1.5em;">  [- By City of Publication](http://tenniso2.github.io/city/)  </span>|
+|<span style="font-size:1.5em;">  [- Vernacular texts and/or lexicons](http://tenniso2.github.io/articles/Vernacular texts/)</span>  |
 
-[Browse the collection by Date of Publication](http://tenniso2.github.io/date/)
 
-[Browse the collection by City of Publication](http://tenniso2.github.io/city/)
 
-[Find incunabula in vernacular texts and/or lexicons](http://tenniso2.github.io/articles/Vernacular texts/)
+
