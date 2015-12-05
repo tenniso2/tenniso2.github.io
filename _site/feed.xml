@@ -5,7 +5,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2015-12-04T19:49:09-06:00</updated>
+<updated>2015-12-04T22:24:17-06:00</updated>
 <id>/</id>
 <author>
   <name>KUSRLIP</name>
@@ -15,11 +15,73 @@
 
 
 <entry>
+  <title type="html"><![CDATA[Confessione generale]]></title>
+  <link rel="alternate" type="text/html" href="/articles/Confessione%20Generale" />
+  <id>/articles/Confessione Generale</id>
+  <published>2015-12-04T00:00:00-06:00</published>
+  <updated>2015-12-04T00:00:00-06:00</updated>
+  <author>
+    <name>KUSRLIP</name>
+    <uri></uri>
+    <email>kusrlip@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;&lt;span style=&quot;font-size:1.5em;&quot;&gt;Fra. Raffaelle, &lt;em&gt;Confessione generale [et] modo vtilisimo per confessarse fata el reuerendo miser Fra Raphael&lt;/em&gt;.&lt;/span&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;span style=&quot;font-size:1.5em;&quot;&gt;Venice: Matteo Capcasa (di Codeca), ca. 1495&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;span style=&quot;font-size:1.5em;&quot;&gt;8vo (14 cm). [a⁸]. [16]leaves. Watermark on a₁ and a₄&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;span style=&quot;font-size:1.5em;&quot;&gt;&lt;a href=&quot;http://istc.bl.uk/search/search.html?operation=record&amp;amp;rsid=225955&amp;amp;q=104&quot; target=&quot;_blank&quot;&gt;ISTC ir00004500&lt;/a&gt; Goff Suppl. R4a; Goff Suppl. R4a; GW M3703920&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;span style=&quot;font-size:1.5em;&quot;&gt;Shelf-mark:&lt;/span&gt;  &lt;/td&gt;
+      &lt;td&gt;&lt;span style=&quot;font-size:1.5em;&quot;&gt;&lt;a href=&quot;http://catalog.lib.ku.edu/cgi-bin/Pwebrecon.cgi?bbid=3873595&quot; target=&quot;_blank&quot;&gt;Summerfield B1625&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;span style=&quot;font-size:1.5em;&quot;&gt;Provenance:&lt;/span&gt;  &lt;/td&gt;
+      &lt;td&gt;&lt;span style=&quot;font-size:1.5em;&quot;&gt;Unknown&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;span style=&quot;font-size:1.5em;&quot;&gt;Binding:&lt;/span&gt;  &lt;/td&gt;
+      &lt;td&gt;&lt;span style=&quot;font-size:1.5em;&quot;&gt;Not identified&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;span style=&quot;font-size:1.5em;&quot;&gt;Annotations:&lt;/span&gt;  &lt;/td&gt;
+      &lt;td&gt;&lt;span style=&quot;font-size:1.5em;&quot;&gt;None&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;span style=&quot;font-size:1.5em;&quot;&gt;Decoration:&lt;/span&gt;  &lt;/td&gt;
+      &lt;td&gt;&lt;span style=&quot;font-size:1.5em;&quot;&gt;Title in Gothic letters; Woodcut of confessor and penitent on a₁ captioned “ATENDE TIBI”&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;span style=&quot;font-size:1.5em;&quot;&gt;Imperfections:&lt;/span&gt;  &lt;/td&gt;
+      &lt;td&gt;&lt;span style=&quot;font-size:1.5em;&quot;&gt;None identified&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/articles/Confessione%20Generale&quot;&gt;Confessione generale&lt;/a&gt; was originally published by KUSRLIP at &lt;a href=&quot;&quot;&gt;The InK Project&lt;/a&gt; on December 04, 2015.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
   <title type="html"><![CDATA[Doctrinale florum artis notariatus]]></title>
   <link rel="alternate" type="text/html" href="/articles/Doctrinale%20florum%20artis%20notarii" />
   <id>/articles/Doctrinale florum artis notarii</id>
-  <published>2015-12-04T00:00:00-06:00</published>
-  <updated>2015-12-04T00:00:00-06:00</updated>
+  <published>2015-12-03T00:00:00-06:00</published>
+  <updated>2015-12-03T00:00:00-06:00</updated>
   <author>
     <name>KUSRLIP</name>
     <uri></uri>
@@ -36,7 +98,7 @@
       &lt;td&gt;&lt;span style=&quot;font-size:1.5em;&quot;&gt;4° (21 cm). [a-p&lt;sup&gt;8&lt;/sup&gt;, q&lt;sup&gt;6&lt;/sup&gt;, 38Z] [130]leaves&lt;/span&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;span style=&quot;font-size:1.5em;&quot;&gt;&lt;a href=&quot;http://istc.bl.uk/search/search.html?operation=record&amp;amp;rsid=368490&amp;amp;q=0&quot;&gt;ISTC im00255300&lt;/a&gt;  C 3870; Pell Ms 7644 (7549); Péligry 535; GW M20848&lt;/span&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;span style=&quot;font-size:1.5em;&quot;&gt;&lt;a href=&quot;http://istc.bl.uk/search/search.html?operation=record&amp;amp;rsid=368490&amp;amp;q=0&quot; target=&quot;_blank&quot;&gt;ISTC im00255300&lt;/a&gt;  C 3870; Pell Ms 7644 (7549); Péligry 535; GW M20848&lt;/span&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -46,41 +108,33 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;span style=&quot;font-size:1.5em;&quot;&gt;Shelf-mark:&lt;/span&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;span style=&quot;font-size:1.5em;&quot;&gt; MS C264 item 2&lt;/span&gt; &lt;/td&gt;
+      &lt;td&gt;&lt;span style=&quot;font-size:1.5em;&quot;&gt;Shelf-mark:&lt;/span&gt;  &lt;/td&gt;
+      &lt;td&gt;&lt;span style=&quot;font-size:1.5em;&quot;&gt;&lt;a href=&quot;http://catalog.lib.ku.edu/cgi-bin/Pwebrecon.cgi?bbid=2963917&quot; target=&quot;_blank&quot;&gt;MS C264 item 2&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;span style=&quot;font-size:1.5em;&quot;&gt;Variant:&lt;/span&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;&lt;span style=&quot;font-size:1.5em;&quot;&gt;Provenance:&lt;/span&gt;  &lt;/td&gt;
+      &lt;td&gt;&lt;span style=&quot;font-size:1.5em;&quot;&gt;Sticker: William Salloch, Pines Bridge Road, Ossining, NY 10562&lt;/span&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;span style=&quot;font-size:1.5em;&quot;&gt;Provenance:&lt;/span&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;span style=&quot;font-size:1.5em;&quot;&gt; Sticker: William Salloch, Pines Bridge Road, Ossining, NY 10562&lt;/span&gt; &lt;/td&gt;
+      &lt;td&gt;&lt;span style=&quot;font-size:1.5em;&quot;&gt;Binding:&lt;/span&gt;  &lt;/td&gt;
+      &lt;td&gt;&lt;span style=&quot;font-size:1.5em;&quot;&gt;See notes&lt;/span&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;span style=&quot;font-size:1.5em;&quot;&gt;Binding:&lt;/span&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;span style=&quot;font-size:1.5em;&quot;&gt; See notes&lt;/span&gt; &lt;/td&gt;
+      &lt;td&gt;&lt;span style=&quot;font-size:1.5em;&quot;&gt;Annotations:&lt;/span&gt;  &lt;/td&gt;
+      &lt;td&gt;&lt;span style=&quot;font-size:1.5em;&quot;&gt;Underlining &amp;amp; handwritten marginalia&lt;/span&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;span style=&quot;font-size:1.5em;&quot;&gt;Size:&lt;/span&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;span style=&quot;font-size:1.5em;&quot;&gt; 4&lt;sup&gt;o&lt;/sup&gt;&lt;/span&gt; &lt;/td&gt;
+      &lt;td&gt;&lt;span style=&quot;font-size:1.5em;&quot;&gt;Decoration:&lt;/span&gt;  &lt;/td&gt;
+      &lt;td&gt;&lt;span style=&quot;font-size:1.5em;&quot;&gt;Gothic types. Spaces for initials, not added.&lt;/span&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;span style=&quot;font-size:1.5em;&quot;&gt;Annotations:&lt;/span&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;span style=&quot;font-size:1.5em;&quot;&gt; underlining &amp;amp; handwritten marginalia&lt;/span&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;span style=&quot;font-size:1.5em;&quot;&gt;Decoration:&lt;/span&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;span style=&quot;font-size:1.5em;&quot;&gt; Gothic types. Spaces for initials, not added.&lt;/span&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;span style=&quot;font-size:1.5em;&quot;&gt;Imperfections:&lt;/span&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;&lt;span style=&quot;font-size:1.5em;&quot;&gt;Imperfections:&lt;/span&gt;  &lt;/td&gt;
+      &lt;td&gt;&lt;span style=&quot;font-size:1.5em;&quot;&gt;None identified.&lt;/span&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/articles/Doctrinale%20florum%20artis%20notarii&quot;&gt;Doctrinale florum artis notariatus&lt;/a&gt; was originally published by KUSRLIP at &lt;a href=&quot;&quot;&gt;The InK Project&lt;/a&gt; on December 04, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/articles/Doctrinale%20florum%20artis%20notarii&quot;&gt;Doctrinale florum artis notariatus&lt;/a&gt; was originally published by KUSRLIP at &lt;a href=&quot;&quot;&gt;The InK Project&lt;/a&gt; on December 03, 2015.&lt;/p&gt;</content>
 </entry>
 
 
@@ -287,64 +341,6 @@
   <content type="html">&lt;p&gt;&lt;img src=&quot;/images/vernacular-map.png&quot; alt=&quot;Map of vernacular texts by city of production&quot; /&gt;&lt;/p&gt;
 
   &lt;p&gt;&lt;a href=&quot;/articles/Vernacular%20texts&quot;&gt;Incunabula in the Vernacular & Lexicons&lt;/a&gt; was originally published by KUSRLIP at &lt;a href=&quot;&quot;&gt;The InK Project&lt;/a&gt; on December 02, 2015.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Confessione generale]]></title>
-  <link rel="alternate" type="text/html" href="/articles/Frate%20Raphael%20Confessione%20Generale" />
-  <id>/articles/Frate Raphael Confessione Generale</id>
-  <published>2015-12-01T00:00:00-06:00</published>
-  <updated>2015-12-01T00:00:00-06:00</updated>
-  <author>
-    <name>KUSRLIP</name>
-    <uri></uri>
-    <email>kusrlip@gmail.com</email>
-  </author>
-  <content type="html">&lt;p&gt;Fra. Raffaelle, &lt;em&gt;Confessione generale [et] modo vtilisimo per confessarse fata el reuerendo miser Fra Raphael&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Venice: Matteo Capcasa (di Codeca), ca. 1495.
-	8vo (14 cm). [a⁸]. [16]leaves.
-		&lt;a href=&quot;http://istc.bl.uk/search/search.html?operation=record&amp;amp;rsid=225955&amp;amp;q=104&quot;&gt;ISTC ir00004500&lt;/a&gt;  Goff ref;  other refs such as BMC; GW; etc.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Shelf-mark:&lt;/td&gt;
-      &lt;td&gt;Summerfield A87&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Variant:&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Provenance:&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Binding:&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Size:&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Annotations:&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Decoration:&lt;/td&gt;
-      &lt;td&gt;Watermark on a₁ and a₄; Woodcut of confessor and penitent on a₁&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Imperfections:&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-  &lt;p&gt;&lt;a href=&quot;/articles/Frate%20Raphael%20Confessione%20Generale&quot;&gt;Confessione generale&lt;/a&gt; was originally published by KUSRLIP at &lt;a href=&quot;&quot;&gt;The InK Project&lt;/a&gt; on December 01, 2015.&lt;/p&gt;</content>
 </entry>
 
 
