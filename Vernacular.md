@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /vernacular/index.html
-title: Vernacular, Greek, and Lexicons
+title: Vernacular & Greek Texts and Lexicons
 image:
   feature: ink.jpg
 ---
