@@ -5,7 +5,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2015-12-04T23:32:20-06:00</updated>
+<updated>2015-12-05T00:02:01-06:00</updated>
 <id>/</id>
 <author>
   <name>KUSRLIP</name>
@@ -135,6 +135,71 @@
 &lt;/table&gt;
 
   &lt;p&gt;&lt;a href=&quot;/articles/Doctrinale%20florum%20artis%20notarii&quot;&gt;Doctrinale florum artis notariatus&lt;/a&gt; was originally published by KUSRLIP at &lt;a href=&quot;&quot;&gt;The InK Project&lt;/a&gt; on December 03, 2015.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Modus poenitendi]]></title>
+  <link rel="alternate" type="text/html" href="/articles/Libellus%20de%20modo%20poenitendi%20et%20confitendi" />
+  <id>/articles/Libellus de modo poenitendi et confitendi</id>
+  <published>2015-11-04T00:00:00-06:00</published>
+  <updated>2015-11-04T00:00:00-06:00</updated>
+  <author>
+    <name>KUSRLIP</name>
+    <uri></uri>
+    <email>kusrlip@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;&lt;span style=&quot;font-size:1.5em;&quot;&gt;&lt;em&gt;Libellus de modo poenitendi et confitendi&lt;/em&gt;.&lt;/span&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;span style=&quot;font-size:1.5em;&quot;&gt;Paris: Jean Lambert, for Denis Roce, ca. 1500&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;span style=&quot;font-size:1.5em;&quot;&gt;8vo ( cm). [colation]. [#]leaves&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;span style=&quot;font-size:1.5em;&quot;&gt;&lt;a href=&quot;http://istc.bl.uk/search/search.html?operation=record&amp;amp;rsid=226873&amp;amp;q=138&quot; target=&quot;_blank&quot;&gt;ISTC im00777000&lt;/a&gt; Goff M777; Lenz 334; GW M13822&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;span style=&quot;font-size:1.5em;&quot;&gt;Shelf-mark:&lt;/span&gt;  &lt;/td&gt;
+      &lt;td&gt;&lt;span style=&quot;font-size:1.5em;&quot;&gt;&lt;a href=&quot;http://catalog.lib.ku.edu/cgi-bin/Pwebrecon.cgi?bbid=3871913&quot; target=&quot;_blank&quot;&gt;Summerfield A87&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;span style=&quot;font-size:1.5em;&quot;&gt;Provenance:&lt;/span&gt;  &lt;/td&gt;
+      &lt;td&gt;&lt;span style=&quot;font-size:1.5em;&quot;&gt; From the library of Anselmi Van den Bogaerde, an aristocrat and bibliophile living in 19th-century Bruges.&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;span style=&quot;font-size:1.5em;&quot;&gt;Binding:&lt;/span&gt;  &lt;/td&gt;
+      &lt;td&gt;&lt;span style=&quot;font-size:1.5em;&quot;&gt;19th century, possibly French. Brown calf with blind stamped decoration at edges and center covers.&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;span style=&quot;font-size:1.5em;&quot;&gt;Annotations:&lt;/span&gt;  &lt;/td&gt;
+      &lt;td&gt;&lt;span style=&quot;font-size:1.5em;&quot;&gt;Underlining and marginalia in 16th century hand throughout.&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;span style=&quot;font-size:1.5em;&quot;&gt;Decoration:&lt;/span&gt;  &lt;/td&gt;
+      &lt;td&gt;&lt;span style=&quot;font-size:1.5em;&quot;&gt;Woodcut of ?&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;span style=&quot;font-size:1.5em;&quot;&gt;Imperfections:&lt;/span&gt;  &lt;/td&gt;
+      &lt;td&gt;&lt;span style=&quot;font-size:1.5em;&quot;&gt;None identified&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;pre&gt;&lt;code&gt;		32 ff. Sig: A-DÔ. 33 ll. Lenz dates between 1499 and 1509 ?
+&lt;/code&gt;&lt;/pre&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/articles/Libellus%20de%20modo%20poenitendi%20et%20confitendi&quot;&gt;Modus poenitendi&lt;/a&gt; was originally published by KUSRLIP at &lt;a href=&quot;&quot;&gt;The InK Project&lt;/a&gt; on November 04, 2015.&lt;/p&gt;</content>
 </entry>
 
 </feed>
