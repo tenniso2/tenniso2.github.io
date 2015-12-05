@@ -27,6 +27,8 @@ links:
     url: /city
   - title: By Date
     url: /date
+  - title: By Language
+    url: /vernacular
   - title: Collection Highlights
     url: /notable
 
