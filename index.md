@@ -12,7 +12,3 @@ image:
 |<span style="font-size:1.5em;">  [- By City of Publication](http://tenniso2.github.io/city/)  </span>|
 |<span style="font-size:1.5em;">  [- By Language: Vernacular & Greek Texts and Lexicons](http://tenniso2.github.io/vernacular/) </span>  |
 |<span style="font-size:1.5em;">  [- By Decoration](http://tenniso2.github.io/decoration/) </span>  |
-
-
-
-
