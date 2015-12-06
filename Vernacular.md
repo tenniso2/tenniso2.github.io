@@ -9,7 +9,6 @@ image:
 ![Map of vernacular and Greek texts by city of production]({{ site.url }}/images/vernacular-map.png)
 
 
-
 |&nbsp;&nbsp;**Shelfmark** &nbsp;&nbsp;&nbsp;|&nbsp; &nbsp;**Author**&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp; **Title**&nbsp;&nbsp;&nbsp;|&nbsp; &nbsp;**City**&nbsp;&nbsp;&nbsp;|&nbsp; &nbsp;**Printer**&nbsp;&nbsp;&nbsp;|&nbsp; &nbsp;**Date**&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;**Size**&nbsp;&nbsp;|&nbsp;&nbsp;**Language**&nbsp;&nbsp;|&nbsp;
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 |<span style="color:Brown">**Books in German**</span>&nbsp;&nbsp;&nbsp;|&nbsp; &nbsp;--&nbsp;&nbsp;|&nbsp;&nbsp;--&nbsp;&nbsp;|&nbsp; &nbsp;--&nbsp;&nbsp;|&nbsp;&nbsp;--&nbsp;&nbsp;|&nbsp;&nbsp;--&nbsp;&nbsp;|&nbsp;&nbsp;--&nbsp;&nbsp;|&nbsp;&nbsp;--&nbsp;&nbsp;|&nbsp;

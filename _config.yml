@@ -23,13 +23,15 @@ tools:
 links:
   - title: About
     url: /about
-  - title: By City
+  - title: Brouse Books - By City
     url: /city
   - title: By Date
     url: /date
   - title: By Language
     url: /vernacular
-  - title: Collection Highlights
+  - title: By Decoration
+    url: /decoration
+  - title: Explore Collection Highlights
     url: /notable
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
