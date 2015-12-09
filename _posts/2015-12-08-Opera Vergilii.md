@@ -4,7 +4,7 @@ title: "Opera"
 category: articles
 tags: [sample post, images, test]
 ---
-<span style="font-size:1.5em;">Verglilius Maro, Publius. *Opera*.</span>
+<span style="font-size:1.5em;">Vergilius Maro, Publius. *Opera*.</span>
 
 |:---:|
 |<span style="font-size:1.5em;">Milan: Leonardus Pachel and Uldericus Scinzenzeler, 1487</span>|
