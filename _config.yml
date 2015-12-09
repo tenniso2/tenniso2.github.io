@@ -23,7 +23,7 @@ tools:
 links:
   - title: About
     url: /about
-  - title: Brouse Books - By City
+  - title: Browse Books - By City
     url: /city
   - title: By Date
     url: /date
