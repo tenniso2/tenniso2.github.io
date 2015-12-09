@@ -8,7 +8,7 @@ image:
 
 <figure>
 	<iframe width="100%" height="520" frameborder="0" src="https://kusrlip.cartodb.com/viz/1af88038-8987-11e5-8b06-0ef24382571b/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
-	<figcaption>test</figcaption>
+	<figcaption>Instances of book production by year of printing and by city.</figcaption>
 </figure>
 
 |&nbsp;**Shelfmark**|&nbsp;**Author**|&nbsp;**Title**|&nbsp;**City**|&nbsp;**Printer**|&nbsp;**Date**|&nbsp;**Size**|&nbsp;**Language**|&nbsp;
