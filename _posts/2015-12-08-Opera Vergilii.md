@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Oper"
+title: "Opera"
 category: articles
 tags: [sample post, images, test]
 ---
@@ -19,4 +19,4 @@ tags: [sample post, images, test]
 |<span style="font-size:1.5em;">Binding:</span>&nbsp;&nbsp;|<span style="font-size:1.5em;">1954 rebound.</span>|
 |<span style="font-size:1.5em;">Annotations:</span>&nbsp;&nbsp;|<span style="font-size:1.5em;">Single word or short-phrase marginalia and some underlining.</span>|
 |<span style="font-size:1.5em;">Decoration:</span>&nbsp;&nbsp;|<span style="font-size:1.5em;">none.</span>|
-|<span style="font-size:1.5em;">Imperfections:</span>&nbsp;&nbsp;|<span style="font-size:1.5em;">Some stains, mostly minor.</span>|​
+|<span style="font-size:1.5em;">Imperfections:</span>&nbsp;&nbsp;|<span style="font-size:1.5em;">None identified.</span>|​

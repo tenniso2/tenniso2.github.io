@@ -19,4 +19,4 @@ tags: [sample post, images, test]
 |<span style="font-size:1.5em;">Binding:</span>&nbsp;&nbsp;|<span style="font-size:1.5em;">19th or 20th century.</span>|
 |<span style="font-size:1.5em;">Annotations:</span>&nbsp;&nbsp;|<span style="font-size:1.5em;">This book has almost as much marginalia as it does text. Could be very valuable for insight into 16th century humanism.</span>|
 |<span style="font-size:1.5em;">Decoration:</span>&nbsp;&nbsp;|<span style="font-size:1.5em;">None.</span>|
-|<span style="font-size:1.5em;">Imperfections:</span>&nbsp;&nbsp;|<span style="font-size:1.5em;">Binding in poor shape. Some staining.</span>|​
+|<span style="font-size:1.5em;">Imperfections:</span>&nbsp;&nbsp;|<span style="font-size:1.5em;">None Identified.</span>|​
